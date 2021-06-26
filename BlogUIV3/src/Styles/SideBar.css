@@ -1,0 +1,13 @@
+.side-bar {
+  float: right;
+  margin-top:1em;
+  margin-right:2em;
+}
+
+hr {
+  width: 120%;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 33px;
+  margin-top:2em;
+}
